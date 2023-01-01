@@ -1,4 +1,4 @@
-# Top-10-Product-Sales
+# Amazon Top-10-Product-Sales
 Product Sales Tableau Dashboard 
  
 Top 10 Product Sales Tableau Dashboard
