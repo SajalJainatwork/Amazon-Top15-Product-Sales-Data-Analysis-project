@@ -16,3 +16,5 @@ c.Under performing product and category.
 
 ![AmazonTop10ProductSales](https://user-images.githubusercontent.com/106689439/212522845-402046f5-4039-4cf2-aa66-8dff4c12e360.jpg)
 
+I observed that "Adidas Youth" product has Highest Quantity however, "Sales" is low.
+
