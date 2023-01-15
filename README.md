@@ -3,6 +3,12 @@ Product Sales Tableau Dashboard
  
 Top 10 Product Sales Tableau Dashboard
 
+In this project, I have found the trends and data for different countries. Show the insights about profit, sales, over different countries.
+Create the dashboard which should include the following in the insights-
+1.Share top10 product by sales.
+2.Share overview on Sales and profit.
+3.Under performing product and category.
+
 Objective
 a. Show top 10 product by sales.
 b.Share overview on Sales and Profit.
