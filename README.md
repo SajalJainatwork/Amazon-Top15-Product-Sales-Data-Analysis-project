@@ -9,7 +9,7 @@ Created the dashboard which should include the following in the insights-
 
 [Amazon Top-10-Product-Sales Dashboard](https://public.tableau.com/app/profile/sajal.jain4190/viz/Top10ProductSalesDashboardColoured/Dashboard1)
 
-![AmazonTop10ProductSales](https://user-images.githubusercontent.com/106689439/212522845-402046f5-4039-4cf2-aa66-8dff4c12e360.jpg)
+![ama](https://user-images.githubusercontent.com/106689439/213483294-d5a8e6c5-09d7-4750-a8cb-4ff1fff5ca95.png)
 
 I observed that "Adidas Youth" product has Highest Quantity however, "Sales" is low.
 
